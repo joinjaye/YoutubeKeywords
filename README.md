@@ -12,7 +12,9 @@
 - Class	检索输入的平台			
 				
 ### byKeyword				
-- 在所搜索的全部平台上，各关键词的整体表现数据				
+
+在所搜索的全部平台上，各关键词的整体表现数据	
+
 - Keyword	对byChannelAndKeyword表中按照Keyword列聚合得到			
 - Views	带了该关键词的所有视频的总浏览量			
 - lang	按照first方式聚合得到			
